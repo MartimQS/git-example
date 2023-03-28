@@ -1,1 +1,1 @@
-data_squad = ['Dimitrios', 'Itai', 'Juan', 'Juan', 'Joao', 'Luisa', 'Martim', 'Mauricio', 'Paulo']
+data_squad = ['Dimitrios', 'Itai', 'Joao', 'Juan', 'Juan', 'Luisa', 'Martim', 'Mauricio', 'Paulo']
