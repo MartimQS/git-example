@@ -1,0 +1,1 @@
+data_squad = ['Dimitrios', 'Itai', 'Juan', 'Juan', 'Joao', 'Luisa', 'Martim', 'Mauricio', 'Paulo']
